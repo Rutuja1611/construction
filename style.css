@@ -1,0 +1,17 @@
+.home{
+    background-image: url("./cranes-g060143015_1920.jpg") ;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.row1{
+    height: 100vh;
+}
+.card-img{
+    height: 15rem;
+    width: 12rem;
+}
+.call-img{
+    height: 35rem;
+    width: 25rem;
+}
