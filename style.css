@@ -10,8 +10,15 @@
 .card-img{
     height: 15rem;
     width: 12rem;
+    
 }
 .call-img{
     height: 35rem;
     width: 25rem;
+}
+.m_card{
+    height: 20rem;
+    width: 32rem;
+    padding: 1rem;
+    margin: 1rem;
 }
